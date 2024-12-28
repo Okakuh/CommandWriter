@@ -1,3 +1,3 @@
 # CommandWriter
 
-Executes commands frim txt file
+Executes minecraft commands frim txt file
